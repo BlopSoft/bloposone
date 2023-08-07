@@ -1,0 +1,7 @@
+PRETTY_NAME="Blop OS One 0.1"
+NAME="Blop OS One"
+VERSION_ID="0.1"
+VERSION="One 0.1"
+VERSION_CODENAME=one
+ID=blopos
+ID_LIKE=debian

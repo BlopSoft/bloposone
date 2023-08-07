@@ -1,0 +1,50 @@
+[PlasmaTransientsConfig]
+PreloadWeight=76
+
+[PlasmaViews][Panel 2]
+alignment=132
+floating=1
+panelOpacity=2
+
+[PlasmaViews][Panel 2][Defaults]
+maxLength=704
+minLength=704
+thickness=48
+
+[PlasmaViews][Panel 2][Horizontal1360]
+maxLength=704
+minLength=704
+
+[PlasmaViews][Panel 25]
+panelVisibility=2
+
+[PlasmaViews][Panel 25][Defaults]
+maxLength=170
+minLength=170
+thickness=64
+
+[PlasmaViews][Panel 25][Horizontal1360]
+maxLength=170
+minLength=170
+
+[PlasmaViews][Panel 4][Defaults]
+maxLength=768
+minLength=768
+offset=0
+thickness=36
+
+[PlasmaViews][Panel 4][Horizontal1360]
+maxLength=1360
+minLength=1360
+offset=48
+
+[PlasmaViews][Panel 4][Vertical1360]
+offset=0
+
+[PlasmaViews][Panel 4][Vertical768]
+maxLength=768
+minLength=768
+offset=22
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/mediaframe_migrate_useBackground_setting.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_rename_timezonedisplay_key.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/containmentactions_middlebutton.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/unlock_widgets.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/move_desktop_layout_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/keyboardlayout_remove_shortcut.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/digitalclock_migrate_font_settings.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/maintain_existing_desktop_icon_sizes.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/klipper_clear_config.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/systemloadviewer_systemmonitor.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/keyboardlayout_migrateiconsetting.js,/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/no_middle_click_paste_on_panels.js,/usr/share/plasma/shells/org.kde.plasma.phoneshell/contents/updates/5_24_update.js,/usr/share/plasma/shells/org.kde.plasma.phoneshell/contents/updates/panelsfix.js
